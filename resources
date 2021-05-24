@@ -77,3 +77,49 @@ learnenough for more abt cmd
 
 <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 npm - for getting preinbuilt packages
+
+express js.com
+
+
+for more routing just 
+app.get("/about", function(req, res){
+    res.send("<h2>This is sSn</h1>")
+})
+use this code and nodify tht accordingly
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
