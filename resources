@@ -87,7 +87,9 @@ app.get("/about", function(req, res){
 })
 use this code and nodify tht accordingly
  
+https://jokeapi.dev/ for getting a joke api
 
+postman for running request
 
 
 
